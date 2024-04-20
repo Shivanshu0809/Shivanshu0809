@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Open Source Project As well as Frontend developer.
 - 📫 How to reach me? Through Linkedin Or Just collab with me on any Project.
 - 😄 Pronouns: Shivu
-- ⚡ Fun fact: self learner
 
 <!---
 Shivanshu0809/Shivanshu0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
